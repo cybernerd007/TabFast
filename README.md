@@ -34,6 +34,6 @@ no momento ele sempre vai retornar que foi postado...
 ⚠️(caso você usar o ambiente de homologação aguarde **10 minutos** para confirmar se foi feito a postagem)⚠️
 
 # Creditos
-[**Gustavosta**](https://github.com/Gustavosta/) - Quem fez o [**Tabulator**](https://github.com/Gustavosta/Tabulator) de onde eu tirei 99% do codigo.
+[**Gustavosta**](https://github.com/Gustavosta/) - Quem fez o [**Tabulator**](https://github.com/Gustavosta/Tabulator) de onde eu retirei 99% do codigo.
 
 [**Matrix_s0beit**](https://github.com/cybernerd007) - Fiz algumas alterações para ser possivel fazer postagens atraves do CMD (prompt de comando).
