@@ -20,7 +20,7 @@ TABNEWS_PASSWORD = '' # aqui vai sua senha
 **Agora a parte mais aguardada...**
 
 # Como rodar
-Depois de preparar tudo basta ir no diretorio raiz, abri o CMD (prompt de comando) NA PASTA e escrever `python main.py` e apertar o enter
+Depois de preparar tudo basta ir no diretorio raiz, abrir o CMD (prompt de comando) NA PASTA DO PROJETO e escrever `python main.py` e apertar o enter
 
 agora ele vai pedir o **TITULO** e a **MENSAGEM**. 
 
