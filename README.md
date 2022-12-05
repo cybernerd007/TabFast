@@ -5,7 +5,7 @@ Sistema que permite fazer postagem no TabNews.com.br atraves do CMD (prompt de c
 
 # Preparar para usar
 
-Antes de tudo deve ter o `python` instalado e o modulo `aiohttp`
+Antes de tudo e preciso ter o `python` instalado e o modulo `aiohttp`
 ```
 pip install aiohttp
 ```
