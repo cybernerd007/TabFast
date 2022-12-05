@@ -1,6 +1,10 @@
 # TabFast
 Sistema que permite fazer postagem no TabNews.com.br atraves do CMD (prompt de comando).
 
+![2022-12-05-14-36-35](https://user-images.githubusercontent.com/8114976/205706114-2d79c633-fd95-4afa-8a87-f46435bc3a3c.gif)
+
+![2022-12-05-14-37-46](https://user-images.githubusercontent.com/8114976/205706135-93b08aa2-24ae-4d61-9cb2-2c5eb8e78e08.gif)
+
 ⚠️ **Nota importante**: Esse projeto ainda não está finalizado e ainda está em construção.
 
 # Preparar para usar
