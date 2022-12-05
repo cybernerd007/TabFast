@@ -27,7 +27,7 @@ agora ele vai pedir o **TITULO** e a **MENSAGEM**.
 **PRONTO... você acaba de fazer sua primeira postagem :)**
 
 
-### A SE FAZER
+# A SE FAZER
 ⚠️ Precisa ser feito um sistema que receba o `status` e printe na tela se a Postagem foi feito ou não,
 no momento ele sempre vai retornar que foi postado...
 
