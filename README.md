@@ -1,5 +1,5 @@
 # TabFast
-Um sistema que permite fazer postagem no TabNews.com.br atraves do CMD (prompt de comando).
+Sistema que permite fazer postagem no TabNews.com.br atraves do CMD (prompt de comando).
 
 ⚠️ **Nota importante**: Esse projeto ainda não está finalizado e ainda está em construção.
 
